@@ -16,7 +16,7 @@ TOKEN_ABI = os.path.join(ABIS_DIR, 'token.json')
 WOOFI_ABI = os.path.join(ABIS_DIR, 'woofi.json')
 
 
-privat_key = '5083f1c16e64a7904cec6e5d8c23fe816988d0262c494117c39fb5c926072062'
-seed = 'space riot aim twenty brown pill cliff upset useful brisk arena flee'
+privat_key = ''
+seed = ''
 eth_rpc = 'https://mainnet.infura.io/v3/'
 arb_rpc = 'https://arb1.arbitrum.io/rpc/'
